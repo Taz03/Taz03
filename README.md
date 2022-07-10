@@ -8,4 +8,4 @@
 - E-Mail: tanishazad03@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Tanish-Azad&count_private=true&show_icons=true&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-Azad&layout=compact&langs_count=8&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-Azad&layout=compact&langs_count=8&card_width=445&theme=onedark)
